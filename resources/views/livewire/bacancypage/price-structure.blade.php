@@ -52,7 +52,7 @@
                 </div>
             </div>
             <div class="p-4">
-                <p>Includes: </p>
+                <p class="font-bold">Includes: </p>
                 <ul class="mt-5 space-y-3">
                     @foreach ($TOD as $single)
                         <li class="flex items-start gap-3">
@@ -93,7 +93,7 @@
                 </div>
             </div>
             <div class="p-4">
-                <p>Includes: </p>
+                <p class="font-bold">Includes: </p>
                 <ul class="mt-5 space-y-3">
                     @foreach ($ST as $single)
                         <li class="flex items-start gap-3">
