@@ -1,0 +1,2297 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1757489273065,
+    "data": [
+        {
+            "type": "folder",
+            "name": "app"
+        },
+        {
+            "type": "folder",
+            "name": "public"
+        },
+        {
+            "type": "folder",
+            "name": "resources"
+        },
+        {
+            "type": "file",
+            "name": "robots.txt",
+            "size": 65,
+            "hash": "506861e6c2c88c748844e2177f53e78222d376b7968576b90e7dec48150dd568"
+        },
+        {
+            "type": "folder",
+            "name": "routes"
+        },
+        {
+            "type": "folder",
+            "name": "app/Exports"
+        },
+        {
+            "type": "folder",
+            "name": "app/Facades"
+        },
+        {
+            "type": "folder",
+            "name": "app/Http"
+        },
+        {
+            "type": "folder",
+            "name": "app/Jobs"
+        },
+        {
+            "type": "folder",
+            "name": "app/Livewire"
+        },
+        {
+            "type": "folder",
+            "name": "app/Mail"
+        },
+        {
+            "type": "folder",
+            "name": "app/Models"
+        },
+        {
+            "type": "folder",
+            "name": "app/Providers"
+        },
+        {
+            "type": "folder",
+            "name": "app/Services"
+        },
+        {
+            "type": "file",
+            "name": "app/UploadImage.php",
+            "size": 327,
+            "hash": "6c82a715b068b29a1e6bed28ba8cce89f189fadfbf805af8d83e930d0e5829f3"
+        },
+        {
+            "type": "folder",
+            "name": "app/View"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets"
+        },
+        {
+            "type": "folder",
+            "name": "public/build"
+        },
+        {
+            "type": "file",
+            "name": "public/robots.txt",
+            "size": 65,
+            "hash": "506861e6c2c88c748844e2177f53e78222d376b7968576b90e7dec48150dd568"
+        },
+        {
+            "type": "folder",
+            "name": "resources/css"
+        },
+        {
+            "type": "folder",
+            "name": "resources/js"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views"
+        },
+        {
+            "type": "file",
+            "name": "routes/auth.php",
+            "size": 1044,
+            "hash": "117f74a98617d7e2d5ccf9e7f999441806b92c6e82408cdd050b92df3f6fe3ba"
+        },
+        {
+            "type": "file",
+            "name": "routes/console.php",
+            "size": 210,
+            "hash": "9adccc33e7dd400683e434774077c7fdb2f299c5712cedf16a43fdf56f2850fa"
+        },
+        {
+            "type": "file",
+            "name": "routes/web.php",
+            "size": 4454,
+            "hash": "c013d6044b16edf366ee686ebf719b76d0b7dc136f2fceccfaf229e380ce7590"
+        },
+        {
+            "type": "file",
+            "name": "app/Exports/RequestQueriesExport.php",
+            "size": 1038,
+            "hash": "64973dbd8e84e6cf0701740793826ae8154a572d8a02e7d2d888d0be201c3b38"
+        },
+        {
+            "type": "file",
+            "name": "app/Facades/HelperFacade.php",
+            "size": 325,
+            "hash": "c24a7a726defccb30491e8df154a10287b17c60644606f31fd6d9fd17144118d"
+        },
+        {
+            "type": "file",
+            "name": "app/Facades/LandingPagePatch.php",
+            "size": 339,
+            "hash": "dd601d3957874fed90e69b61e7d757c8023b4c096021c6184996ea70637132d8"
+        },
+        {
+            "type": "folder",
+            "name": "app/Http/Controllers"
+        },
+        {
+            "type": "file",
+            "name": "app/Jobs/SendQueryEmailJob.php",
+            "size": 1042,
+            "hash": "615cc0e9a1867f932f211b08f76017628df5eed5589c1613b60afa52ad72cb76"
+        },
+        {
+            "type": "folder",
+            "name": "app/Livewire/Admin"
+        },
+        {
+            "type": "folder",
+            "name": "app/Livewire/Actions"
+        },
+        {
+            "type": "folder",
+            "name": "app/Livewire/Bacancypage"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/LandingPagesTable.php",
+            "size": 1174,
+            "hash": "de72d8ba840d1fce5c147b8f919ea29460ce791728de9629fe1f99989199b2b2"
+        },
+        {
+            "type": "folder",
+            "name": "app/Livewire/Modal"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/RequestForm.php",
+            "size": 2250,
+            "hash": "66420b65ed17ef99db7bffcea2edd3c736ba121a918d7361c8a4f3c3da356412"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/RequestQueryTable.php",
+            "size": 1448,
+            "hash": "7b7d4b053b941cc79298846d1eb159590f22a774f9e5cd488e87ef53385966c8"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SEO.php",
+            "size": 1667,
+            "hash": "518db79e8fc7f4aa4ea2efb5ae45d613a5c2a9274e78741abf957316562b1cb0"
+        },
+        {
+            "type": "folder",
+            "name": "app/Livewire/SiliconValley"
+        },
+        {
+            "type": "file",
+            "name": "app/Mail/SendQueryMail.php",
+            "size": 1108,
+            "hash": "64ac8a36ce44df4a2f901860ec190cf060ae27eeab08108ea632f29ad9ae0f7c"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/LandingPage.php",
+            "size": 397,
+            "hash": "b8563bb621dd541c0ce1ea9038f64700c213e11826931271d0a27e8b6cc6663d"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/ModalData.php",
+            "size": 295,
+            "hash": "435719475440c2f9b339a87fac9f2963b37be2aa52ebb12def1ea25769c5ba73"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/RequestQuery.php",
+            "size": 335,
+            "hash": "704ea6b46e798ed18e9f3d1197bd5b8eb98c12926686acbf1c6bad17230f8e3d"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/User.php",
+            "size": 1295,
+            "hash": "91fa0f540f83e1cfd378147e851bfbe8ab6e5e4eec6844a7ba30d1f066663210"
+        },
+        {
+            "type": "file",
+            "name": "app/Providers/AppServiceProvider.php",
+            "size": 654,
+            "hash": "c2853e478abaf371853278a0c5f3a39649ddae092c4c34919ff01daa73bf1c59"
+        },
+        {
+            "type": "file",
+            "name": "app/Providers/VoltServiceProvider.php",
+            "size": 494,
+            "hash": "c3f1fc1718e6133d3af395ab954518e0965a8ef15ba61ed35da90ae14a6fd54e"
+        },
+        {
+            "type": "file",
+            "name": "app/Services/Helper.php",
+            "size": 823,
+            "hash": "73e640a06da60c789ff935c9c6838219656052b556116b6df0aaad8dc83553de"
+        },
+        {
+            "type": "file",
+            "name": "app/Services/LandingPagePatch.php",
+            "size": 478,
+            "hash": "24a47542063f33849e06741ced2f906265dddfa0096874fa90ed0d906ceab0d9"
+        },
+        {
+            "type": "folder",
+            "name": "app/View/Components"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/AI"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/bacancy"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/clients"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/companies"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/developers"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/gm1.webp",
+            "size": 1662,
+            "hash": "7870902c45d26c5e58fd74f15e841e66f0b65325eeb387d7e532e8b5d9d8ccb4"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/gm2.webp",
+            "size": 1680,
+            "hash": "22c1e15ab53ca74ec5311f5932cf44d66f35ad0603020c1c9dc08ea4856bdac3"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/gm3.webp",
+            "size": 1734,
+            "hash": "6e0af27939f3c756d3bb0f232a4b5d62ca38add4ba3eb43afcfa4370ecf19e6e"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/location"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/modalpic.webp",
+            "size": 8702,
+            "hash": "6021b57b70ee4737d70d2b97021087e48d3dd05bef40894b7fdd8787640ae7f1"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/modalpic2.webp",
+            "size": 16136,
+            "hash": "9108a629ec7e8e49c07172a258bbc7b07cbf2077d55961c347858221fdfac854"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/popup_bg.webp",
+            "size": 51104,
+            "hash": "d7297462c8fc0f9a5b7aa30aee1627dd67970c47ecec0e91c5a8390003adaab2"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/previous"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/project"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/ratingimg.webp",
+            "size": 9282,
+            "hash": "15a602e20d15531844932b43159f6236092f6e249d7d933a40b8966f96efd697"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/ratingimg2.webp",
+            "size": 35648,
+            "hash": "839ab3b58b2b8705a444a17a069218928edcc87ef0d1068744f2002cc874a424"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/siliconvalley"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/techstack"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/underOnRoof"
+        },
+        {
+            "type": "folder",
+            "name": "public/build/assets"
+        },
+        {
+            "type": "file",
+            "name": "public/build/manifest.json",
+            "size": 1062,
+            "hash": "321fc4ff923daf340553bff3c385b5c24cb4f0deb75d4036504e0289b3f22a66"
+        },
+        {
+            "type": "file",
+            "name": "resources/css/app.css",
+            "size": 5835,
+            "hash": "83d5ddc85681fb5389fbd13856895f79a57d31849e1b775776406cb7f4351e0e"
+        },
+        {
+            "type": "file",
+            "name": "resources/js/app.js",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/dashboard.blade.php",
+            "size": 1288,
+            "hash": "c5b6b6b1c55cc3ce065519c53070e0125c268d48bb5080154a8c7149309350f0"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/emails"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/flux"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/formquerys.blade.php",
+            "size": 1174,
+            "hash": "40ac1fc9555ab9312bfdb2fec71f061a61a69cf3bc91d6113aca2167b95f0c14"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/landing_pages"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/landingpages.blade.php",
+            "size": 6825,
+            "hash": "a7d091de636dee971297a082f0a35f1a843dee19c6e78acdb77c928d1a438fa9"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/livewire"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/modals.blade.php",
+            "size": 1835,
+            "hash": "92fd1af7faebd4edab9c9040f43a9bda3f78fdf5c501d52e4babdf195e236638"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/partials"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/privacy_policy.blade.php",
+            "size": 5195,
+            "hash": "bb2265710fcad3b68f710dcd260c8305d08e18359c3787f8eb53994b0fa95e9f"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/thankyou.blade.php",
+            "size": 954,
+            "hash": "ec00a523917d67495f271210e6a865c94ac60cdadef9957909108678e8104784"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/welcome.blade.php",
+            "size": 79575,
+            "hash": "56d0899280b53034c73ad0825328b3e790a452e25779f88bb65212eb8feb7d00"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/AdminController.php",
+            "size": 2207,
+            "hash": "dbf47b26d404b7bdac62c05d4baa9d94d243dc7c2d747245ee677ad1efe86354"
+        },
+        {
+            "type": "folder",
+            "name": "app/Http/Controllers/Auth"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/Controller.php",
+            "size": 77,
+            "hash": "25d1c1ef8e6cc8a376553faacfba2b07d9dfaee9bdbb84f14f77517580e9deb1"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Admin/ModalSelector.php",
+            "size": 495,
+            "hash": "f7b3fcecb9f5d48c0775919a72d76ed22378f3efb72d1a9bf08a48e36f5f2ee5"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Actions/Logout.php",
+            "size": 383,
+            "hash": "060c3f832eec83f95a947a253ad3532541dc7b2ae637c28f6ff2e0daedbb55ae"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/AiBlock.php",
+            "size": 4581,
+            "hash": "fa8b040f270cea49943bd94745ffbd77033609cef02f20b54aecf871eb894edd"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/ClientsProfile.php",
+            "size": 4501,
+            "hash": "e503a27ac3ddade731545205a39268b0a019714eba551fc7c0e7aa40101829cd"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/CompaniesLogo.php",
+            "size": 2276,
+            "hash": "798cb982919ff980072fc6a4affe8e090e1bbd79ff314a092ee93076bcca708c"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/Faq.php",
+            "size": 3215,
+            "hash": "fa080291fe24330c8261324951da62bdbcbbd4354ff748d3003678f563b38b6f"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/GetStartedHere.php",
+            "size": 4612,
+            "hash": "cff032b3ee10f94e9aef8df3901b51e160639d05a520a13faa467189ccb1b322"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/Header.php",
+            "size": 1696,
+            "hash": "dc593b20d78d8d7986c0f38957817d97ea9bf3cc9d59b28e2b5f35315cd0bd23"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/Herosection.php",
+            "size": 3328,
+            "hash": "51d0a1e9b736ba53490cec736beac0679204421763da80018defe344c988901b"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/OurOfficeLocation.php",
+            "size": 1502,
+            "hash": "7bda716892b8a332631ec736a6766a69a55a3e0a081e2d224affbac0016138cf"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/PriceStructure.php",
+            "size": 214,
+            "hash": "3eb7bba27359985e40c752265c80f8749211f3b7390cf783b8e85faa78c26aa5"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/Profiles.php",
+            "size": 11481,
+            "hash": "07c8114026f7e4be7c760aaaf43ee545b722fa3dbc601d7c3e1201a4badf4543"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/Projects.php",
+            "size": 4732,
+            "hash": "25a586c396fe5791a9b7ee4b21b18ee65061be6026e6876eef02d84667e53f7a"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/StartScalingYourTeam.php",
+            "size": 4814,
+            "hash": "168b09906afa1fcbc43828feab2fcd3022ec98c3901907b6cad2e2ee32c4cfbf"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/TechStack.php",
+            "size": 7009,
+            "hash": "6ad4dccc76efa187d05d42868a453bcab91e96b39e90874dcf46f50214b885fc"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Bacancypage/UnderOneRoof.php",
+            "size": 5132,
+            "hash": "2ff3b98927c85c8133b151467a271bb5248263931b8961712677435a95145f73"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Modal/Bacancy.php",
+            "size": 3441,
+            "hash": "4ec59cd429a062b53b65b45056831b6eb002225e722f388b97f336510cd17b1b"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/Modal/SiliconValley.php",
+            "size": 3486,
+            "hash": "e28aa05bb5cac6988e565a0812efa129751eea84a06e28c53fb8a0fa60946303"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/AiBlock.php",
+            "size": 4461,
+            "hash": "7344dc5aed6b203b9ee6fc5d43f1ce3466233ec135105aed02a098639052e2de"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/AzBlock.php",
+            "size": 3789,
+            "hash": "4e601e9b678b69e874b7bac06e9021931a815e849085ef62fb1d4833c36857dd"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/Ctn.php",
+            "size": 196,
+            "hash": "03ced1914687abfcd67f439b3c82ce9718af91871b91f2885fe1c21b61b3adc9"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/DevProfile.php",
+            "size": 5351,
+            "hash": "70f9f3d41b688cb57a8598ada37c054fd099f53650e4b479232371a3c17327a2"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/HeroSection.php",
+            "size": 3988,
+            "hash": "03ba8e6d34bb3db19a214b295746c1c3d288b28dfa04fdc6a559eb6b9f9c1d63"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/HiringProcess.php",
+            "size": 217,
+            "hash": "6f967c64289b10bb77dc1046b19e848a40e921425315dc13a8f369380022cb44"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/OurOffices.php",
+            "size": 1492,
+            "hash": "479274309caca93c3cdb242aa4ea69b81cb44556ad4ccdff169990c94b4eda07"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/QueryBlock.php",
+            "size": 2240,
+            "hash": "b02c7d55bd789d308f6cae0564377d2e0c70b035ca1cc4a17c0b9c334e005eb4"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/StartScalingYourTeam.php",
+            "size": 4732,
+            "hash": "c7dd5605cb251738979dcc16f3145bccdfd53a1a883498f12b5d9d8c8abf2031"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/TechTeam.php",
+            "size": 207,
+            "hash": "35b59374271d18c738b037173ae7f37ac7a7d44c6d7044a0356f08d44d23fd5a"
+        },
+        {
+            "type": "file",
+            "name": "app/Livewire/SiliconValley/TextSlider.php",
+            "size": 1629,
+            "hash": "a8e25b336bac1be542469a0d928d5dba99e73fe242f46864cb2aefca0ba550b4"
+        },
+        {
+            "type": "file",
+            "name": "app/View/Components/AutoSlider.php",
+            "size": 1100,
+            "hash": "7603f11e4d7ab51030e0e6352f30e2fa6efdacce03ed0fc37dade507c4c4366d"
+        },
+        {
+            "type": "file",
+            "name": "app/View/Components/Modal.php",
+            "size": 479,
+            "hash": "21ae7b8522824e821270daf9e32fb648e7edd0b076d258bd333830edf9c60396"
+        },
+        {
+            "type": "folder",
+            "name": "app/View/Components/SiliconValley"
+        },
+        {
+            "type": "file",
+            "name": "app/View/Components/SimpleTextEditor.php",
+            "size": 472,
+            "hash": "7f3e72c431c64656780f4ca5b701af7f9f581de0d87d42bc50dd74cfa17aa5a7"
+        },
+        {
+            "type": "file",
+            "name": "app/View/Components/actionButton.php",
+            "size": 463,
+            "hash": "031a5eb066749a44b7df6136a01ee1d493f0fed50516dda5a2e5c4d246e8b6fb"
+        },
+        {
+            "type": "folder",
+            "name": "app/View/Components/bacancypage"
+        },
+        {
+            "type": "folder",
+            "name": "app/View/Components/modal"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/AI/claude.webp",
+            "size": 1570,
+            "hash": "68c36d66dcd5bc92d9062e420ceeaec21092c2e5d36a2e8670c525d361e6aa13"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/AI/cursor.webp",
+            "size": 1092,
+            "hash": "f309539bed376a9c9bc861b058eb879925233b396a7c58f6e77e75f7bf8389a0"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/AI/githubcop.webp",
+            "size": 2322,
+            "hash": "a787762d24fa3c171d4ca6bdf78b33fa951d2b10b572cd686e879d1b96b4e1a2"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/AI/logo.webp",
+            "size": 19336,
+            "hash": "fbad4f6e76d9f5c0164a1349644acab0f5184a4626322c81a5a4089114a12895"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/Samsung.webp",
+            "size": 976,
+            "hash": "97ab8166313430c021863c31d7dd8137f061aaee04757026405731012a404cb4"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/bacancy/ai_tools"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/arrowR.webp",
+            "size": 562,
+            "hash": "c7bff6d8fa10746620defa8acd0c6f67cdc133a17d22020134b25aae533ab78c"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/bacancy/developers"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/favicon.webp",
+            "size": 1960,
+            "hash": "0910bc605dba0eb8d0358b012866492a4ee60b1f0e15673c73bf55b61edd26f6"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/hero_section_person.webp",
+            "size": 39970,
+            "hash": "c42da6e8eb97e4755ccb3d1af9521f3361edc392ae3b0e064131332fe220b334"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/logo.webp",
+            "size": 7214,
+            "hash": "f864f8d6056089a578a9b2accea4a4321dd85d47779504159859dda42479c161"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/logo2.webp",
+            "size": 19336,
+            "hash": "fbad4f6e76d9f5c0164a1349644acab0f5184a4626322c81a5a4089114a12895"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/nvidia.webp",
+            "size": 2098,
+            "hash": "9dfa15172ef0ace6cacc161316693f3c109b8a41189c98d9992b690d3ea92f46"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/talktoexpertbg.webp",
+            "size": 95856,
+            "hash": "c1c8bf4574d3b0436c01f2e01ac96ffa1ab057770fc2d928e926bbd0a803e5b3"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/profile_avtar.webp",
+            "size": 12404,
+            "hash": "c0d18f7a0bfbd65837bea42c7080d27dda595492b59bf62a038e01edccc17b2e"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/clients/jenny.webp",
+            "size": 30130,
+            "hash": "84f0b7b4e86647a0d9c20bb6ba18145600fde2a09d250d749a3ae9f6de918536"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/clients/mark.webp",
+            "size": 8866,
+            "hash": "37f0547ee860ac22b1f8dc457c6ea58ebc95bd6d6c2a0d2ccdefee632cf42c07"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/clients/matt.webp",
+            "size": 11122,
+            "hash": "9ee2e49ca07718aad4d80a3aa0dbc7004d634da329dadc32632de3e1cc14d8fe"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/clients/matthew.webp",
+            "size": 16386,
+            "hash": "3d2a4492ad540464e69f36899ae529535882e06299bd3fc8b5f9d4060757e6d7"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company1.webp",
+            "size": 2074,
+            "hash": "bd6ae8e5252619eae87452141cc4d3978078fe28d9aa66e2c1c3b3dcbcd431b3"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company10.webp",
+            "size": 1518,
+            "hash": "928002410aadffa6219db6ac7c315d8a6e11d78a3e52ab962dc008a11c7bb14f"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company11.webp",
+            "size": 2854,
+            "hash": "339b2b8f27baba9347af2c61132d9de5a0501ce25b858597386169a4bab8463b"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company12.webp",
+            "size": 2940,
+            "hash": "d1bc4353528d36621c401053181c2e8b99be0523be2626af04e6d20b9babb0d2"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company13.webp",
+            "size": 6242,
+            "hash": "6a82a93c083fc607e9017c18198b36de13bf2507f65192468a07e0bd3dc05242"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company14.webp",
+            "size": 2160,
+            "hash": "637041a1be95d43c6d593a00347109bfa59cad6021e0c1ed3e62694474cbc042"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company2.webp",
+            "size": 2594,
+            "hash": "039721f745253670f09fa323d47d8dedf1b81cfcfe325f5a0a0b62d95db0dda9"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company2.zip",
+            "size": 40317,
+            "hash": "763339b881c7f39cc54e4b32bfbed2fe39e5c79c32aa74ac591a8500e75ed2d7"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company3.webp",
+            "size": 2682,
+            "hash": "fae6f96c55a3070741a73a4e515100b3c6df9acef712c9d5da3c4b8751c286d1"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company4.webp",
+            "size": 3352,
+            "hash": "1571e157b197d7fac18975764b3f2cdb5283f6faaeb5016569847aad89fc983e"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company5.webp",
+            "size": 2040,
+            "hash": "6eba1a1901fba3895e9d1c371db7771c018c89e79a0aec9b5cdd3a49d490e086"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company6.webp",
+            "size": 2072,
+            "hash": "e028b77186024884c19b857f4bab16efd86c847f2fcb49ab72d78c1f74ec2570"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company7.webp",
+            "size": 3458,
+            "hash": "4495430cbdb4744bc033ca4b131ec326d034e95f328c0addb220a23142953e4b"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company8.webp",
+            "size": 2046,
+            "hash": "5ba622101bd0a919fc2c3585da5d2bc3fdee2ac9b070c92791c38164bfb789b6"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/companies/company9.webp",
+            "size": 2034,
+            "hash": "02950feec151afdb93f5f6226b9ffc3b3cc0a4d6dcd5afb2a55e4a90275a7395"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Aarif.webp",
+            "size": 5994,
+            "hash": "b6f01fb4583e42f5d851c4ff27d23e30e56c50d9b991632146191593909937c4"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Aashish.webp",
+            "size": 5440,
+            "hash": "485e7ac17eca5cfdbfb16d30d80b63f03525380bbc9a4efc4e8ef5f9a3991b94"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Aisha.webp",
+            "size": 84430,
+            "hash": "96ac19bd1524650400adb76885379b906d0f83dca4fe811532b36b4f12764afa"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Alexander.webp",
+            "size": 138064,
+            "hash": "e76b7e190fe819b561fd21eb7ae5a49b8df0c7192c3adb28e97e523ecfaa654d"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Alfie.webp",
+            "size": 156824,
+            "hash": "a6d25332e462c7cf55494ada662755a511dd0d211e11a3abf4a85184d9a8e01e"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Amelia.webp",
+            "size": 123014,
+            "hash": "ea67dea7626c5265735a3aa143d679c7d9cc6a171c6ac62c6aad24aa7fc3f7f6"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Amelia.zip",
+            "size": 1240638,
+            "hash": "56c2212d20e43ec2f07fdb58cf32e9fa307470be8670a939697f72b4814b0a36"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Arjun.webp",
+            "size": 30138,
+            "hash": "1e71c392490e4ad71fe1acaec7b1db292892c7fd0ca74214def288512f234836"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Arun.webp",
+            "size": 34610,
+            "hash": "475f491621e517a24aef2bdd32627149d41a3a0422805f6615359f04e18fbf48"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Ashish Tomar.webp",
+            "size": 7008,
+            "hash": "c611ec02cf5c0f175ae5badd334c05fb17cd1e6d0d9460ed646c630e03d53d92"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Ashutosh Rathore.webp",
+            "size": 3364,
+            "hash": "3d63c123d6aaaa248e7b7561f7e191dd85bc5c55dbcc8985fa9f4855a6f13a12"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Dev.webp",
+            "size": 29354,
+            "hash": "72a733bc212fb4f1b85c43817c4d425670f204584ee4659eaa4f946a480a7fba"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Durga.webp",
+            "size": 5294,
+            "hash": "95cbd49d995a15cf988e3fe3a82ee797be678ea32f69609cc3a9252c0529017f"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Ella 🇵🇭.webp",
+            "size": 22702,
+            "hash": "a9b7576faee15c051e289bf4286be10311472bb2672b3a960b8ae49e80db25a4"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Ethan.webp",
+            "size": 3804,
+            "hash": "b1c53ed679bc5796308c42bbf063b7768a4581fe39b622b846d192b68addce75"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Finley.webp",
+            "size": 34788,
+            "hash": "46e72305f6bdddfe75e0d88993eb49b914ce3d18d110d20d23d82d6224cd572d"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/George.webp",
+            "size": 4358,
+            "hash": "ab9c4bfbb8e2f9524c33c905c12e7eeccf8c78ecf70aa433584f6666aa7f080e"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Harry.webp",
+            "size": 35660,
+            "hash": "12dc58a0fb662a4e899d39ffd1f6aa65f110e08503382d8a42ffb7a7f3333b51"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Isabella.webp",
+            "size": 28534,
+            "hash": "c9a64c3ba59a150beed274c6fb0deb5d3408a875ce09ff4f0bbc2a63870a438f"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Isla.webp",
+            "size": 107838,
+            "hash": "0ae8c8bd8d9d9681be1ddd7f302d423ffe621baa70b81f1f874836df4f9f7673"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Karthikeyan.webp",
+            "size": 21788,
+            "hash": "476f7b0f05df9cf79fbdba561131a7e5293730eb71e50f804006cec77bc691be"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Matilda.webp",
+            "size": 104168,
+            "hash": "5688b74bd9e6d6d1ce2ebbb8d6f62e8234abd8b258eb2b0637fcf464fd705903"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Mia.webp",
+            "size": 37468,
+            "hash": "40941ebd1ecaf7092aad7ac46c6a32838f4e6fdd011161142b8ef859879bde75"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Miguel.webp",
+            "size": 11762,
+            "hash": "b70d1e883e19da56826c39c508dfc2e23fe4498e3c4ed3a6b4b40ad0814f62dc"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Mira.webp",
+            "size": 19484,
+            "hash": "91393998267c6cc78c47c0b72f5865798c6f0f5b73ca199682163cb172f29946"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Oliver.webp",
+            "size": 35660,
+            "hash": "12dc58a0fb662a4e899d39ffd1f6aa65f110e08503382d8a42ffb7a7f3333b51"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Raj.webp",
+            "size": 41442,
+            "hash": "83e9bca64f9e4f3abba607d9b554645ec76d263c5723456f1475f76e1bbda37e"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Rajat Barman.webp",
+            "size": 6076,
+            "hash": "17bb63bba67374d5f71f1e28bc31a5eb3317a9122539c7debcba3611683de052"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Rohan.webp",
+            "size": 32194,
+            "hash": "42b4fb666625589a89da7cf68816f301afda2b86d1bf482f08040a3c0c69a427"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Ruby.webp",
+            "size": 69690,
+            "hash": "e772beb0d15b58bb09987197ab5b7ac90c9a94373f182dc713860955b97540a8"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Simran Patel.webp",
+            "size": 5122,
+            "hash": "5daae9a92f482c6301346c7bf8276e99ef0d5a3a5563293e5403dac7127e104f"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Sofia.webp",
+            "size": 16414,
+            "hash": "bd76728b0b5a41fc69969f2d1a85197b25f07a3852a66d02c6869ce4ca6f44ea"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Surya.webp",
+            "size": 38996,
+            "hash": "fa3a9d5d29c2af7c3bc8c75c6e2409ddb58d5e52db9764fd6db8fe15b764400f"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Tanvi.webp",
+            "size": 21734,
+            "hash": "55e039cc8e56abac3298978a5b3f55f27d92cef61375e9385f8461f5aeb65de2"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/Vignesh.webp",
+            "size": 113352,
+            "hash": "839ad7ec46b3ff5ea48a1079efac12d4496270565736af8c88c2af0d068ef475"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/ashima.webp",
+            "size": 108640,
+            "hash": "95e1a041d350cf152ae755f91118d2f92cbd28fea4349c871ee2d1cc7d4a986e"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/katrina.webp",
+            "size": 129034,
+            "hash": "9d4be092752dedcddf66cf06b816840bdba5bf5690b15ee62cc01253891765b9"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/developers/nayan.webp",
+            "size": 5288,
+            "hash": "5b99ceda7626976fe347d290d87de9fc3099d457a49926817ab4f5b178b4d1ab"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/location/AUSTRALIA.webp",
+            "size": 802,
+            "hash": "15ec9d3a4a81ce99e637b09459383d1912ca5136db586092ee4b58b106a7b973"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/location/INDIA.webp",
+            "size": 304,
+            "hash": "67127abad471a221131156f004b113e8c4f50d9612b52457f82488063308c683"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/location/UK.webp",
+            "size": 1062,
+            "hash": "40b2b1110abbfb329684477443b84cff749019457cac44eb0f69911919694ff3"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/location/USA.webp",
+            "size": 502,
+            "hash": "ac326a986480cb8be790b9aa2e634d2afae2a5bc164f279175ff274acfc89627"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/Boeing.webp",
+            "size": 1266,
+            "hash": "c54e77ad862e47bac12464a660605822281f0706cb54a4c9a956268da9d0dee8"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/Hp.webp",
+            "size": 1168,
+            "hash": "0c801fc20a99ff9b6784ae8356c7e2f1e68bd0703a9bd075dc8bd6793d11dac6"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/Meta.webp",
+            "size": 1186,
+            "hash": "888333724bc17bd15d81667cce99c20ae9d2ff518fe7e84c383ef212468192df"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/Neogames.webp",
+            "size": 1266,
+            "hash": "7d656b198a86d4afbb786cfe90e3d40c6431ad7d4d3fcfd851018b2dee939a34"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/Nokia.webp",
+            "size": 1234,
+            "hash": "5e0790c4bd4939bae117a7b30c8e6c8ec1aa3718d8288353608fce9db1496140"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/Payoneer.webp",
+            "size": 1018,
+            "hash": "c05726a6e8ecd49251434159926fff0cad41fbbc47c86f488be31138d0f3112a"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/Tinder.webp",
+            "size": 1048,
+            "hash": "3218202910777732a68fadcb4aea62d11d56a481bde356eebbe3f8a5a5ad9820"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/Volvo.webp",
+            "size": 1094,
+            "hash": "fb2e2cc8059288c9636f82a5c60ff17a1a05fc6284a1add5e264374ed95de768"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/Walmart.webp",
+            "size": 1280,
+            "hash": "3ba713bfe80d616f084181cc5ab5881f0f6b35c3eaff6f11f53e06f87f0a6f98"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/WarnerBros.webp",
+            "size": 1592,
+            "hash": "131275962f105cf267ac0f5ccdb865d506d4296fea64d7fb2b479590891a6b98"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/afterplay.webp",
+            "size": 4198,
+            "hash": "4a13c39bf65e2bc89e7ee93d9803bd79e6c35c53e83363b6a4b97a9eeb4ba27d"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/airwallex.webp",
+            "size": 3110,
+            "hash": "5f7c795d1830f8229c673766d231ebb215f5f89efed5c0c8ea7b98d83e91a92c"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/anz.webp",
+            "size": 3724,
+            "hash": "b9f8150f0a670c8e7ebeb6de861359984837fc3effdca1942afa5635cb738308"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/atlassian.webp",
+            "size": 2934,
+            "hash": "8908dc36c14f9cd323a328919ab2adddb5e3938470574d4115b06106df64e176"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/bhp.webp",
+            "size": 2368,
+            "hash": "cf32a061b3c5c77c4fbe42a5428f32eea679e4a506f9a581e871b10cb1bf5809"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/canva.webp",
+            "size": 5840,
+            "hash": "b1c40fcb4a1bca379fbe9033e489378f84cdafe699dc056503c5ebd76cc142b0"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/envato.webp",
+            "size": 4488,
+            "hash": "011888398b9d0118cdf29b3c1d6e57a59a588d0f093eea9ce675228360c5377c"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/iag.webp",
+            "size": 2824,
+            "hash": "cc4a8419f5cdc070a555bd64e389f5c0ed389d9a4c8f88b4e99f8a2d6c3b9480"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/idp.webp",
+            "size": 4886,
+            "hash": "bce9e3fd2cffeefbdd7219ae4c073d8100ad52b40cf419ec3fd670f6f1d64516"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/linktree.webp",
+            "size": 3012,
+            "hash": "94464c6e3aff75183eda9bd713e46fd965cd304e01c4946887f256504b1918e5"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/samsung (2).webp",
+            "size": 2684,
+            "hash": "fe517821d79383f5523291f6afd8f07ca5907cbe04952e374372961271f3fd11"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/seek.webp",
+            "size": 4156,
+            "hash": "3e1e67f95bffe9b5e34ca2d8261ce995e55966c29491462be1177a79f9eb0050"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/previous/wwg.webp",
+            "size": 6654,
+            "hash": "28c5323e944c08c513acd14f702b5c4c09cc4541d26f5b681a61ca5d48c31258"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/project/mapleware.webp",
+            "size": 75044,
+            "hash": "ab505d50397690d65d79d6dcc3e497aad884422e830c7b868ce91f0dbce51c55"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/project/plutora.webp",
+            "size": 52570,
+            "hash": "e788295e86ba019a5c75803f003377cf481502616ce51ae2f2b9c448c0824365"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/azblock.avif",
+            "size": 1350,
+            "hash": "e87ac60eeb638150774681b94d4af5ef13ddc4b7865be28e41a768b9d10662ad"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/azblock.webp",
+            "size": 5712,
+            "hash": "9a2daf9e21bb472cefe714a424bb35691bd3a11e9173e609e5ce504333274f93"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/siliconvalley/devprofile"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/globe-bg.webp",
+            "size": 33296,
+            "hash": "971d64131430f860163d75bd4b2e2dc52dfd898205d9ae1e8c86d7d22c57612e"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herobg.avif",
+            "size": 60103,
+            "hash": "946c70c3dbf1eae87dcbef6db4f1c38752403cb86471d66e42f2bee7bf78ae1d"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herobg.webp",
+            "size": 32806,
+            "hash": "d143d7c1b5244ba77edb0015159451f6c57a2ee59e7a0e722826cc549d1ee1a5"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herobg1.avif",
+            "size": 11958,
+            "hash": "4db1dca8bb20a7a3549858ac19a9cc37e42a941e61c4c7fd8f8dfe65b8bef9da"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herobg1.webp",
+            "size": 50324,
+            "hash": "fffb930b89efe99fa7c0c93a1bb4b15c8711a7cf3ac6a8f9091bc27827620789"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/siliconvalley/herosection"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/hireprocess.avif",
+            "size": 1900,
+            "hash": "5b35875579d26604045ca3c031ebbf2caa060808721e1ffdc08ef7968e0406f4"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/hireprocess.webp",
+            "size": 7352,
+            "hash": "fe4d6d81970dbef8f4d2bec7575bd17e2e011db9d366933cf2efe47600205d25"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/siliconvalley/hiringproc"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/logo.webp",
+            "size": 4902,
+            "hash": "f2961e82653c6862caf08daa9d4e318932a3cc17e437ec06c837482e50f75cd2"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/logo2.webp",
+            "size": 7214,
+            "hash": "f864f8d6056089a578a9b2accea4a4321dd85d47779504159859dda42479c161"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/siliconvalley/techteam"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/techstack/HAhbyjzUaR7ortL3xxQnQOp1Vh0Xh7PdDUuYf1KR.webp",
+            "size": 2890,
+            "hash": "375488fefae74d96766d32bdf5d0eb9f8b867e3be33372d8211d5735d7cbdcd6"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/techstack/Sj4OkjG1jMgwaGzo1lGbxHgeawS7UR0WXumHsZm5.webp",
+            "size": 5764,
+            "hash": "ab6a385aac41627fff7e9895383f26412f7791ad8e1f7c240685c3aa99471fd0"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/techstack/rBzyAWMzh73RFaKa2V9Z6OtFNu8oa71it6njnnkp.webp",
+            "size": 2924,
+            "hash": "d436ea0f135ebbc97b3cc8b865f4706d6a71bfd8b6d167957ea6b74a6f549b7b"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/aiml.svg",
+            "size": 9938,
+            "hash": "64d7f85fde2d58def7420fa24af1bd190a0c7bc79734bc74aaa48bc78dfd6857"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/aws.svg",
+            "size": 3978,
+            "hash": "7bf3d1bbd55678c7d45844bb6a23f76fc4b94df6700de06d25ce7cb77ead2a66"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/azure.svg",
+            "size": 2971,
+            "hash": "2a52f9fb3e6e9d48988a27383179488511e125f7e52eff88e2531ac0c304337e"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/cloud.svg",
+            "size": 6198,
+            "hash": "c115cbb72d879eefb7ca5886a6e300dc7785c4495860523ae5e05acd47d314fd"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/data-science.svg",
+            "size": 6973,
+            "hash": "5f7aeade0c585e80eadb3fc2783d6f3a276de967b756ec23c3ac9514e39152e1"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/devops-1.svg",
+            "size": 5698,
+            "hash": "c8623a24f79fa2c6f7c18ccad388f0a02fde09395c02a9bf6549b01a243135af"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/devops-3.svg",
+            "size": 5400,
+            "hash": "8b2cec05747b85d29c89f58efab383ba7b7fe2009823aefbb94150065215dbaf"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/devops-2.svg",
+            "size": 8825,
+            "hash": "6ef37173d22c1c9c40d8917f011b4fda406b2ac6e3cb2b8dfbb576e167778596"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/full-stack.svg",
+            "size": 2218,
+            "hash": "bae673d9353cb4f3f631018690fa721d3363a2f740545e3277d9871e7dd76fa6"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/java.svg",
+            "size": 2113,
+            "hash": "72ba79ebba48ad958266e6124f49f52d4c5c6d83d850dcf35a73207664c27cb1"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/mobile.svg",
+            "size": 6951,
+            "hash": "dc19f6f364140c5a8daa61831eea16cea419a3fbbdd5844a6f155cdec5effd8c"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/mobile2.svg",
+            "size": 4594,
+            "hash": "ed6b79f6c444144e1cd0a30f5f1d691690e21adaf9257d3959504e2537e51ad1"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/php.svg",
+            "size": 1702,
+            "hash": "c23cacd4c3ae36d8836c4fe194038f96d8e8bb0d90b1cdf0dc6f62e41768b047"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/python.svg",
+            "size": 2627,
+            "hash": "efa73ccbe1cfa7e3238675a3ef84efc121e4f4afab7917e11678f3871a3a28e5"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/react.svg",
+            "size": 956,
+            "hash": "f00a47f51a884741ea20a9909435cd33ba508ce95ac32d42c97a5a5b952d1122"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/ror.svg",
+            "size": 2803,
+            "hash": "093a11c4d5672efc4e2898432c479f76ba8aac37810859f6e43e4188f2ae8e4d"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/sales-force.svg",
+            "size": 6642,
+            "hash": "b37aa9d412b6afd1aca7759faa9e0307f16c9a3931b1c28870fa71c1a8204d60"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/shopify.svg",
+            "size": 2285,
+            "hash": "7fd4c1a2e3314439c3720bb018f480fa2a534fbe6ac1cba3656a5fb22c776c7c"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/underOnRoof/web.svg",
+            "size": 11178,
+            "hash": "fadbc1e11863defcbe6fbd392da35823e52542e2df202b24affac8ea62ff5074"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/app-BVlGspZe.css",
+            "size": 248440,
+            "hash": "07ea03b325182e82147aa92cd497e87e9d3c9faad6999bd8a28ccbea36db2b61"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/app-l0sNRNKZ.js",
+            "size": 1,
+            "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/azblock-BTrPUJko.avif",
+            "size": 1350,
+            "hash": "e87ac60eeb638150774681b94d4af5ef13ddc4b7865be28e41a768b9d10662ad"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/azblock-D9xq-coM.webp",
+            "size": 5712,
+            "hash": "9a2daf9e21bb472cefe714a424bb35691bd3a11e9173e609e5ce504333274f93"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/hireprocess-B9znzsKL.avif",
+            "size": 1900,
+            "hash": "5b35875579d26604045ca3c031ebbf2caa060808721e1ffdc08ef7968e0406f4"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/hireprocess-DQan1VJf.webp",
+            "size": 7352,
+            "hash": "fe4d6d81970dbef8f4d2bec7575bd17e2e011db9d366933cf2efe47600205d25"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/talktoexpertbg-pE2cEsLu.webp",
+            "size": 95856,
+            "hash": "c1c8bf4574d3b0436c01f2e01ac96ffa1ab057770fc2d928e926bbd0a803e5b3"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/action-button.blade.php",
+            "size": 867,
+            "hash": "b74842ff4219756845fc80cd09a3777e407168c207fe687e5b28624901a59249"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/action-message.blade.php",
+            "size": 452,
+            "hash": "54af78fe5c09feab95c45a3ee7290b5074b2e3e0501cf1f85535a9238e7130d2"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/app-logo-icon.blade.php",
+            "size": 909,
+            "hash": "061bdbb31ccdfc3f3d731eb49e8549f1e553893cce0305d36f7e64014f06cb48"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/app-logo.blade.php",
+            "size": 348,
+            "hash": "f8c3deba96fce1b2fa30591529beb0c024b667819a77907cf43fa733f4acdc50"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/auth-session-status.blade.php",
+            "size": 167,
+            "hash": "45e46754dbe94278d484097de8ba418b478411b4be820f2fdcea996cdeb9e294"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/auth-header.blade.php",
+            "size": 213,
+            "hash": "f2970bc80db25fc00fb27526440d3f69869cafbfb23ab1e12fc02438de65a470"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/auto-slider.blade.php",
+            "size": 5532,
+            "hash": "2237d93e880372493f0297165603a592b1ed3fc13b4ae69da3e86da40918a2d1"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components/bacancypage"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components/layouts"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/messagestatus.blade.php",
+            "size": 636,
+            "hash": "5b38609bfb5b44727d7ec030741231d846574143c61407b670579a9ef58d6e1f"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components/modal"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/modal.blade.php",
+            "size": 666,
+            "hash": "237359bd0a21a13ccc2b0d32bd787c924d62555006488096a2c134b732ec3048"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/placeholder-pattern.blade.php",
+            "size": 386,
+            "hash": "711f4cc33c5e9558ac36bf7fd5bba51e6b1f7e17d50d4d9ee239f03b1124127a"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components/settings"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components/silicon-valley"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/simple-text-editor.blade.php",
+            "size": 1657,
+            "hash": "4447673253d303e7f8755ed9dc92a7287dcd02ec2cce50c952ee38c171a281fc"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/submit-button.blade.php",
+            "size": 1916,
+            "hash": "dab17fbb81c621c4d91e666e51c80e9417dee61fd284d577605319588765c8f2"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/emails/query.blade.php",
+            "size": 247,
+            "hash": "3da639e1dcaee90ddc48ebc2e602d44a7d7cc2dc392a61279688a03d1243fe7b"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/flux/icon"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/flux/navlist"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/landing_pages/bacancy.blade.php",
+            "size": 1132,
+            "hash": "56121f31fd4ccc34199e4d766229e3813243a2e5a20701fdae7c016ef40cb717"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/landing_pages/siliconvalley.blade.php",
+            "size": 933,
+            "hash": "74268d43568a596af6ddde176800332a3e39b5159d45fbafc2c09289aa395a57"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/livewire/admin"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/livewire/auth"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/livewire/bacancypage"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/landing-pages-table.blade.php",
+            "size": 4439,
+            "hash": "7772ac2e3c54d1849a77cb46d7a9ff0f79dae84fa020c7036ae2a74be1cb5142"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/livewire/modal"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/request-form.blade.php",
+            "size": 3537,
+            "hash": "3c5c16f73e69a935d42a9ebd44aff313ed31ee9658705241f70b0f97d7de8b94"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/request-query-table.blade.php",
+            "size": 4560,
+            "hash": "fe400bd077e839cac617df23b05992c42533a311413e898fbd770c6d6971843b"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/s-e-o.blade.php",
+            "size": 2093,
+            "hash": "730185a232420827e64296fec97883a86a3e5f56041a12c3c967814e9366d2cf"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/livewire/settings"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/livewire/silicon-valley"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/partials/head.blade.php",
+            "size": 1694,
+            "hash": "0cf13c893d2f655a7b463fd246adacea3bc085cff101cfb0abc9f0ccebe5c8eb"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/partials/settings-heading.blade.php",
+            "size": 271,
+            "hash": "5592534aba1afde73500aaabf238449f7170df01599d984cbcd154b54203ab42"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/Auth/VerifyEmailController.php",
+            "size": 901,
+            "hash": "263aac59ad1a685fb926a9105c1aae6fd72224b204554e95911fdbbf42f7404b"
+        },
+        {
+            "type": "file",
+            "name": "app/View/Components/SiliconValley/DevProfile.php",
+            "size": 488,
+            "hash": "78686962370bc12e2eeffd2be953b6a7b1d691d81530afb6b0fda5363683787b"
+        },
+        {
+            "type": "file",
+            "name": "app/View/Components/SiliconValley/ActionButton.php",
+            "size": 492,
+            "hash": "d2fe76e1428fdfc066a6f6c8099da4fe5b7d8f6437805a794935e6b84c6f16cb"
+        },
+        {
+            "type": "file",
+            "name": "app/View/Components/bacancypage/ProjectCard.php",
+            "size": 485,
+            "hash": "a06fe2c915e5f82fb4eed71fd1a77d05c06bd88566fa0848254268aa5aca0153"
+        },
+        {
+            "type": "file",
+            "name": "app/View/Components/bacancypage/profileCard.php",
+            "size": 485,
+            "hash": "08b0440f4b89fb0ae9663715118719dcb75bd52f63312503357ac20f7017cae2"
+        },
+        {
+            "type": "file",
+            "name": "app/View/Components/modal/bacancy.php",
+            "size": 464,
+            "hash": "27a83cb47efcb97027e746876ca78830f0c7de06d89002468cf4f7d033a74b11"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/ai_tools/claude.webp",
+            "size": 1570,
+            "hash": "68c36d66dcd5bc92d9062e420ceeaec21092c2e5d36a2e8670c525d361e6aa13"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/ai_tools/cursor.webp",
+            "size": 1092,
+            "hash": "f309539bed376a9c9bc861b058eb879925233b396a7c58f6e77e75f7bf8389a0"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/ai_tools/github_copilot.webp",
+            "size": 2322,
+            "hash": "a787762d24fa3c171d4ca6bdf78b33fa951d2b10b572cd686e879d1b96b4e1a2"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/developers/developer1.webp",
+            "size": 30138,
+            "hash": "1e71c392490e4ad71fe1acaec7b1db292892c7fd0ca74214def288512f234836"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/developers/developer2.webp",
+            "size": 32194,
+            "hash": "42b4fb666625589a89da7cf68816f301afda2b86d1bf482f08040a3c0c69a427"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/developers/developer3.webp",
+            "size": 28974,
+            "hash": "75162a117955bb047db9bdd671a51efb3b365d72f5a3d860fbc99de5be3697dc"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/developers/developer4.webp",
+            "size": 41442,
+            "hash": "83e9bca64f9e4f3abba607d9b554645ec76d263c5723456f1475f76e1bbda37e"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/bacancy/developers/developer5.webp",
+            "size": 19484,
+            "hash": "91393998267c6cc78c47c0b72f5865798c6f0f5b73ca199682163cb172f29946"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/devprofile/Alexander.webp",
+            "size": 11412,
+            "hash": "794bd5d35f4152ab25e1c14f8f01ee0f98ced30bcdc6f2f9bdbf86d1e2984bfc"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/devprofile/Alfie.webp",
+            "size": 16930,
+            "hash": "7aeb0e5611b6e44e46a7fc2deabd851f4ccd70fd6101ee9899735c6d13e9232a"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/devprofile/Ethan.webp",
+            "size": 4450,
+            "hash": "ae306532af021423d15c1e1445c05b5aa1702b5e4a8128d2efdf8683680551e5"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/devprofile/Isla.webp",
+            "size": 11838,
+            "hash": "56f615c728913ce822b82637be2258012aabc98f0ca4dd5c9d256ebe4be69ef8"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/devprofile/developer2.webp",
+            "size": 5988,
+            "hash": "ab1f0d02acf83a5039186582f54517c6256de464725bb297ebe19a1214b9eb99"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/devprofile/developer3.webp",
+            "size": 6004,
+            "hash": "78b8bda46767d9c015df7a7f31da6d0589c9226861662fb6cff018757f267aec"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/devprofile/developer4.webp",
+            "size": 5596,
+            "hash": "60bd336fb389b3498305ee5f83cc3b492048c4e8603a1a1b1cb04c824d9b10cf"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/devprofile/developer5.webp",
+            "size": 25048,
+            "hash": "60028be6c17d3e75318cca8f1dc26098858392c4faec161b2019f83beeadb1a1"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/devprofile/developer53.webp",
+            "size": 5842,
+            "hash": "fca192b6f7822c761e8ab4d13ff2046f6e26d737f6aff5e6b7c19ce2cbbaa456"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/devprofile/devprofile.webp",
+            "size": 8606,
+            "hash": "8e8af54e94f3a3334cfde1d2be5094ec5bbbcf49b7222711260ec2a1bfa28cec"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herosection/Matilda.webp",
+            "size": 104168,
+            "hash": "5688b74bd9e6d6d1ce2ebbb8d6f62e8234abd8b258eb2b0637fcf464fd705903"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herosection/anjali.webp",
+            "size": 25048,
+            "hash": "60028be6c17d3e75318cca8f1dc26098858392c4faec161b2019f83beeadb1a1"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herosection/anjali1.webp",
+            "size": 19484,
+            "hash": "91393998267c6cc78c47c0b72f5865798c6f0f5b73ca199682163cb172f29946"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herosection/firebase.webp",
+            "size": 1074,
+            "hash": "e6b3678eaefc2d7ee08f22b391cabe972522d71b242f42168f5f242b1fec2ed2"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herosection/hero_section_person.webp",
+            "size": 39970,
+            "hash": "c42da6e8eb97e4755ccb3d1af9521f3361edc392ae3b0e064131332fe220b334"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herosection/nodejs.webp",
+            "size": 2006,
+            "hash": "0b297ff44023d7d6a6421d03910c0e58acb7fb63cbf00a6da6c00902a8618129"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herosection/heroimage.webp",
+            "size": 15070,
+            "hash": "663f1d8c9443bd9e50b4e3b3a02ed426bd65d9ec65be165ab49bba98d06a1f04"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herosection/python.webp",
+            "size": 2246,
+            "hash": "01d57f6740e9e2bfc5cd017cde9687826dbbacd058dbb30718713715971c36cb"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/herosection/react.webp",
+            "size": 3108,
+            "hash": "2fdab711ed3f3de1aeec93a0df7809690c9804700977280452f417eb20ce40df"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/hiringproc/hire_build.webp",
+            "size": 12056,
+            "hash": "bbc0a7db2ca11498ff0456a3990f118ef2aaaf16188998aa0bfb42809f335c23"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/hiringproc/interview_favorites.webp",
+            "size": 14264,
+            "hash": "9be7d47f37ef944a6d04d40491e4839ddc901981e7da483a743245b405c0d6a0"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/hiringproc/what_your_need.webp",
+            "size": 12678,
+            "hash": "45a803ab8bb361747ee470236941cec81dd359f90aeb9a4a097e7e82fffa6620"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/hiringproc/you_choose.webp",
+            "size": 15976,
+            "hash": "10f21f62e44fab7618b55c31405c84bf4e2739b1a601a99e039cf253a6c40a50"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/techteam/country.webp",
+            "size": 3628,
+            "hash": "b0849a7c2a7718eebef9d3e62ff3c84c450f732d84e18f0d8082ff245689e883"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/techteam/developer.webp",
+            "size": 2444,
+            "hash": "76ae47f7af91c12017d84497c7e23478f628cc166e7ecdad9114e97f12cf0187"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/siliconvalley/techteam/developer2.webp",
+            "size": 6772,
+            "hash": "93816de4bdb442928d7856031a97e492877c3ab2bb9d5d6f468974cbf46b8476"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/bacancypage/client-card.blade.php",
+            "size": 1357,
+            "hash": "43838ea44f65736db97cdc021276e863392516c921ec272a9f7a0e090dfc2bb5"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/bacancypage/project-card.blade.php",
+            "size": 1381,
+            "hash": "f754dd0f16275b652b974f379fef82e0f7a1a227c38b03c5840651d876e5d98b"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/bacancypage/profile-card.blade.php",
+            "size": 4158,
+            "hash": "bef27efbddef85772a616ad695e2b3206f0d8da1dd711bce5dee843c8ee7493f"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components/layouts/app"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/app.blade.php",
+            "size": 126,
+            "hash": "dd9b9f1ca891086abddb3a3ec90d00c6f48856d56bbaf846d57bac10d724fd69"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components/layouts/auth"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components/layouts/page"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/auth.blade.php",
+            "size": 89,
+            "hash": "18bb90e94507e806d5c2d098314752dfba38b9951297a26360e89d71e4e62f8a"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/modal/bacancy.blade.php",
+            "size": 84,
+            "hash": "53b2a9f9d5be6204889693971000745ab115d840b125aae1aa804ce06e5c7b44"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/settings/layout.blade.php",
+            "size": 838,
+            "hash": "08e5a9df7acb40fe45c43e6f6c631e7e2b950ac717a434de218278d5be2eff8a"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/silicon-valley/action-button.blade.php",
+            "size": 467,
+            "hash": "0227ceedbfc27b58e3aea2a4bac15e0cafcb0676cc86d64695b32fa32ae3649d"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/silicon-valley/dev-profile.blade.php",
+            "size": 6837,
+            "hash": "9919f39f87ccfef1fcaaf09be423b2bc80f827dab947304e6a39445a40a4257d"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/flux/icon/book-open-text.blade.php",
+            "size": 1201,
+            "hash": "72ca4ad75deb9c43fd3b969edbef8b795f16f5745b6c393b744b3159a1958401"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/flux/icon/chevrons-up-down.blade.php",
+            "size": 988,
+            "hash": "3d5d35856b9cefca1a37f0af68cd26e1a8ff8a16ec438d0f8f46d8e30410b382"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/flux/icon/folder-git-2.blade.php",
+            "size": 1164,
+            "hash": "dd5ad1096f33fa36455d46c7b2348df034c7e7074d291b4e7d6094437411c109"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/flux/icon/layout-grid.blade.php",
+            "size": 1143,
+            "hash": "8e2e462d7f4aa6713d447c961d565e17148379160bac805c6d530e3ab45300ba"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/flux/navlist/group.blade.php",
+            "size": 1400,
+            "hash": "c18a08c3dc17a03378578e29d1223aff1e9dd14c26d9fcf8cec84092f3c96fa5"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/admin/modal-selector.blade.php",
+            "size": 580,
+            "hash": "787285337566b2466a71e838d4ca99795b8a51f3e63ce5a251dd67801649f42b"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/auth/confirm-password.blade.php",
+            "size": 1697,
+            "hash": "51c85ce83b03950eeb70eba1fe283c27c7e71750196a33c3306935a3643fe912"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/auth/forgot-password.blade.php",
+            "size": 1565,
+            "hash": "44c2ae885cee58033ea0bf3a59aa46de5b042cbe422b5297c4fd6dcaef3b3cfd"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/auth/login.blade.php",
+            "size": 3894,
+            "hash": "235aa29315da8c82ee61d249e231cf2143dea57058f6b7a41c95f5678312271c"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/auth/register.blade.php",
+            "size": 3039,
+            "hash": "9e84eacf7cd892283415e2c9c1030f4fa291678cf081cdea3b1857f066d0c302"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/auth/reset-password.blade.php",
+            "size": 3566,
+            "hash": "70e3df678cc3db0e61b28363bc9d6d3ee99247f87f06e6141164ae551e7c4090"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/auth/verify-email.blade.php",
+            "size": 1742,
+            "hash": "0cbbfed5e68bf893440a5ed3d65d9541ebb55be34779a5f8b5c99beb472178fa"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/ai-block.blade.php",
+            "size": 12089,
+            "hash": "aea46334d541a4b35a807b393f484dff325a9bcaf094d4661da23e562ca537ab"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/clients-profile.blade.php",
+            "size": 8301,
+            "hash": "3f1e26bf9e0439021f83d6efd73078b0578bd0ed3cb10edebe487ca4b9ed14f5"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/companies-logo.blade.php",
+            "size": 4188,
+            "hash": "bea3d06f17e31aba4fc9349a79519fd9c8bee97d2303beba3d02174b0f2d9560"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/faq.blade.php",
+            "size": 9648,
+            "hash": "6e8ed79d05b651357efeed8074b6f11fe8e22d08aede5cfea1e6f98e73c95a15"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/get-started-here.blade.php",
+            "size": 8342,
+            "hash": "5284298acc5e13e82f124e8fd85a7989f0ea5258fd534fc3a274beb029d00258"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/header.blade.php",
+            "size": 6539,
+            "hash": "af1fbdb52e6e53ca859f364e8198011942cb928529de90d2ab4a0dbdaed80c11"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/herosection.blade.php",
+            "size": 11477,
+            "hash": "f2b478146a9835bb86648f3002863164fa3a141b7542fbcd5428165d127df6c4"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/our-office-location.blade.php",
+            "size": 6387,
+            "hash": "9a14eded73b3af87f067631548a14a52de1e8fde16275c24f55717a21aa59fe2"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/price-structure.blade.php",
+            "size": 7835,
+            "hash": "d2921898510a451e772d6e0ce654cc0aed176488eccd70647740c82cfc3f9df9"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/profiles.blade.php",
+            "size": 10131,
+            "hash": "2ef1251fb873065e66595d743f54d25279664e92305f7b17d513ee609115b518"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/projects.blade.php",
+            "size": 10228,
+            "hash": "a50525673cf1644baf712e5b5f68d7d2294768dcd397f7f33c0bc0722da9e204"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/start-scaling-your-team.blade.php",
+            "size": 11496,
+            "hash": "27ab85b6421cc37cf50f79fa8981deabb1565599e91ef7fcebc85a9936064274"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/tech-stack.blade.php",
+            "size": 11405,
+            "hash": "5b7d57396da85f02d51ac7445d1a74158963fc8435a344b6ae7592334a1bbb16"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/bacancypage/under-one-roof.blade.php",
+            "size": 11229,
+            "hash": "debcd68dbf033d4b2437143edd1d4b5d50c19fd6b22d8ba222e9ca40d0bf3399"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/modal/bacancy.blade.php",
+            "size": 9489,
+            "hash": "090c1c0ae89d567e38fb4d4f6ca5b558e8d3af1dda5efc258de63c9ae72a5822"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/modal/silicon-valley.blade.php",
+            "size": 9546,
+            "hash": "fd9a6cd7709cd7b355dacc70c50a9f1f6cb97db7fe30a8ea8b3cdca27f686f54"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/settings/appearance.blade.php",
+            "size": 669,
+            "hash": "2cb6a8e2a2c9590b7a54856dbdd5eaa981bb0e1f5ad4e990e834ce90bc45f1a4"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/settings/delete-user-form.blade.php",
+            "size": 2094,
+            "hash": "4273e6c8e5f43861dfb9851432b884ca5fbbf04d62d1a308bcb6aa3c8adb2473"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/settings/password.blade.php",
+            "size": 2573,
+            "hash": "3058379ae7fe60f708f8de17269d13c34db8e107d6349f149c87499d8c526a0c"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/settings/profile.blade.php",
+            "size": 3661,
+            "hash": "ae63f205ba6bf814d5da3fd839323bfa41f5aa27857d4924bfe9dd6ca6590eae"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/ai-block.blade.php",
+            "size": 11407,
+            "hash": "1538f6969c700f262bf2215e6b96f100222235828b0db8988f25bb77b7f3ed97"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/az-block.blade.php",
+            "size": 4420,
+            "hash": "f3e3275a84fba78129e7c132e4360c885b4ec43fc9921a7d2fcb374818e8e737"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/dev-profile.blade.php",
+            "size": 8362,
+            "hash": "2ce0d1467c0837392b1e96347cb49ef6cfabe14f07b69dd0de4dcecb5fb2063f"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/ctn.blade.php",
+            "size": 724,
+            "hash": "650604780a9f450d581a270582623c9851bcdd48d45205b659e8ff57f1e12b0b"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/hero-section.blade.php",
+            "size": 11619,
+            "hash": "f012abdf3f40a4e9a7ca06370825601fc729c8328771201273c4165ddbd1c35d"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/hiring-process.blade.php",
+            "size": 9325,
+            "hash": "14c4fce1679128bcb8454d2067d61d077a07d4330b7e023da1a609f7e0f0fe49"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/our-offices.blade.php",
+            "size": 6751,
+            "hash": "18bc9697bc22ac22a2d802a9983420f90b4e05acdda58a75d47c941dd7fafa73"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/query-block.blade.php",
+            "size": 10469,
+            "hash": "ead11ee8a8145ed942c90b4ff5b3d1fe51e03b77de3d9c2d55e473d8e6982601"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/start-scaling-your-team.blade.php",
+            "size": 11498,
+            "hash": "390226b4ab7477969ccf4fd6b4ed5dfd6bc554e1f79d7c2ac2c710486aac257c"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/tech-team.blade.php",
+            "size": 2689,
+            "hash": "9d88db44d3142994081cef195d4927fc562b478c5b6f497e1e38de458343db38"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/livewire/silicon-valley/text-slider.blade.php",
+            "size": 2652,
+            "hash": "2dfde116959e7d4766be4eb0bac1c81d5a6f3cedd63069d277d1a02c1a7762dd"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/app/header.blade.php",
+            "size": 5754,
+            "hash": "fd902959aa4aa2f88f33fca95ebc5e13805b79b359f4b26218974931f7e4282a"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/app/sidebar.blade.php",
+            "size": 6198,
+            "hash": "0fa63724a521fdcdd3fe179b8e3359cdb40fc762db72aac84ff987f05591989b"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/auth/card.blade.php",
+            "size": 1235,
+            "hash": "23737259fdfda9f692f925eb556bc6f911b50891889563cf87ff61b0febdc18a"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/auth/simple.blade.php",
+            "size": 1050,
+            "hash": "77f6bdbe7b8dd1a7b80f117357e0e681dd438939b8e764ae9cdfb9b86fe75be5"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/auth/split.blade.php",
+            "size": 2258,
+            "hash": "4b3e3a4cca3f55b22c41786c743a991f36f6e76ea04b4eb0e3642d5c83d529f4"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/page/bacancy.blade.php",
+            "size": 5520,
+            "hash": "9399ab684f975cb67df00c5d5ef38043ed88e127edae8ae54c9729a530f5551b"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/page/siliconvalley.blade.php",
+            "size": 8923,
+            "hash": "f2e31f7644c72f75f5623adf6f6c39170bd43619bde1f6134a7480c3b58fa668"
+        }
+    ]
+}
