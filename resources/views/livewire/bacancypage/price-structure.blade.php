@@ -1,4 +1,4 @@
-<div class="my-12 py-12 scroll-mt-20" id="727">
+<div class="my-12 py-12 scroll-mt-20 hidden" id="727">
     @php
         $TOD = [
             "Include Recruitment Cost",

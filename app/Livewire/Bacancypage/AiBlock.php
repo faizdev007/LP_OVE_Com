@@ -87,7 +87,7 @@ class AiBlock extends Component
         $this->ai_logo_one = isset($aiblock['ai_logo_one']) ? $aiblock['ai_logo_one'] : '/assets/AI/cursor.webp';
         $this->ai_logo_two = isset($aiblock['ai_logo_two']) ? $aiblock['ai_logo_two'] : '/assets/AI/githubcop.webp';
         $this->ai_logo_three = isset($aiblock['ai_logo_three']) ? $aiblock['ai_logo_three'] : '/assets/AI/claude.webp';
-        $this->btntext = $aiblock['btntext'] ?? 'Book a 30 mins strategy call';
+        $this->btntext = 'Book A Free Consultation';
     }
 
     public function render()

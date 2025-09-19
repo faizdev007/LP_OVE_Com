@@ -57,7 +57,7 @@
         <div class="flex justify-center space-x-2">
             <x-submit-button 
                 type="submit" 
-                title="{{$buttonText ?? 'Book a 30 mins strategy call'}}" 
+                title="{{$buttonText ?? 'Book A Free Consultation'}}" 
                 target="submitquery"
                 class="!text-black w-max !md:text-2xl !bg-white hover:!bg-gray-900 hover:!text-white focus:!ring-[#000000]"
             />

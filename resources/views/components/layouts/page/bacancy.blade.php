@@ -9,7 +9,7 @@
             'Technical Stack',
             'Success Stories',
             'FAQs',
-            'Pricing'
+            // 'Pricing'
         ]
     ],
     'modal'=>[
@@ -49,7 +49,7 @@
                             </svg>
         
                             <span id="responsive-text">
-                                {{ 'Schedule A Call' }}
+                                {{ 'Book A Free Consultation' }}
                             </span>
                         </button>
                     </flux:modal.trigger>
@@ -73,7 +73,7 @@
                     if (window.innerWidth < 768) {
                         elem.textContent = 'Book A Call';
                     } else {
-                        elem.textContent = 'Schedule A Call';
+                        elem.textContent = 'Book A Free Consultation';
                     }
                 }
             

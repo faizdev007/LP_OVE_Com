@@ -43,7 +43,7 @@
                     </fieldset>
                     <div class="md:flex mb-3 p-2 bg-bacancy-primary rounded-full w-max px-8">
                         <input wire:model="btntext" type="text"
-                                class="bg-white md:text-md w-max bg-white xl:text-xl sm:text-sm text-xs text-black border p-0 px-2  border-bacancy-primary rounded-md w-full"
+                                class="md:text-md w-max bg-white xl:text-xl sm:text-sm text-xs text-black border p-0 px-2  border-bacancy-primary rounded-md w-full"
                                 placeholder="Button Text" />
                     </div>
                     <fieldset class="relative flex border-2 rounded border-black p-2">

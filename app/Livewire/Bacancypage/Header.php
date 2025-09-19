@@ -23,7 +23,7 @@ class Header extends Component
                                 'Technical Stack',
                                 'Case Study',
                                 'FAQs',
-                                'Pricing'    
+                                // 'Pricing'    
                             ];
     }
 
