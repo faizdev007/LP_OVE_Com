@@ -30,14 +30,71 @@ class Faq extends Component
         $this->title = $faq['faq']['title'] ?? 'Frequently Asked Questions';
         $this->subtitle = $faq['faq']['subtitle'] ?? 'Still have question ?';
         $this->btntitle = $faq['faq']['btntitle'] ?? 'Let’s Talk';
-        $this->faqs = $faq['faq']['faqs'] ?? [
-                        ['question' => 'Do you provide AUD rates due to Currency Fluctuations?', 'answer' => 'Yes, We do provide AUD rates as per your request for a lock-in period of 12 Months.'],
-                        ['question' => 'What would be the Working Hours of the Developer?', 'answer' => 'Developers will be working on AEST time with an overlapping availability of 6 to 7 AEST hours, so you will have full time zone coverage.'],
-                        ['question' => 'What tools do you use for Project Management and Communication?', 'answer' => 'For managing projects, we utilize tools like JIRA, TRELLO, BASECAMP, etc. To facilitate communication, we rely on platforms such as SLACK and MS TEAMS.'],
-                        ['question' => 'Do I work directly with the developer?', 'answer' => 'Yes, You would be working directly with the Developer.'],
-                        ['question' => 'Do you ensure the security and confidentiality of our intellectual property?', 'answer' => 'We do sign an NDA to ensure confidentiality and agreement for the IP rights. All IP rights belong to you and we are just the development partner.']
-                    ];
+        $this->faqs = [
+                    [
+                       'question' => "How quickly can I hire a qualified developer for my project?",
+                        'answer' => "At Optimal Virtual Employee, we understand that time is of the essence. You can expect to have access to pre-vetted developers within 24-48 hours, ready to jump into your project. Whether it’s software, web, AI, or mobile development, we make it quick and seamless to connect you with the best talent without the usual delays."
+                    ],
+                    [
+                        'question' => "What’s the cost of hiring a developer through your service?",
+                        'answer' => "We offer transparent pricing with no hidden fees. For just $699/month, you get access to a highly skilled developer, including everything from payroll and management to tools and resources. That’s it—no surprises, no extra costs. This makes scaling your tech team both affordable and predictable."
+                    ],
+                    [
+                        'question' => "How can I be sure the developers I hire are skilled?",
+                        'answer' => "We use AI-powered vetting processes to ensure that every developer we provide is top-tier. Before you meet them, you’ll receive a comprehensive report on their skills, certifications, and past work. You’ll have full visibility into their capabilities, so you can be confident they’re the right fit for your project."
+                    ],
+                    [
+                        'question' => "What makes your developers better than other options?",
+                        'answer' => "Our developers don’t just meet the technical requirements—they’re also skilled communicators who integrate seamlessly into your team. We focus on quality, ensuring that our developers have proven experience in their respective fields, whether it’s building scalable software, developing mobile apps, or deploying AI solutions. You’ll get the best talent, without the hassle of sifting through resumes."
+                    ],
+                    [
+                        'question' => "What if I need a developer for a short-term project?",
+                        'answer' => "No problem! Whether you’re working on a short-term, high-priority project or need an expert to handle specific tasks, our developers are flexible. We offer both full-time and part-time options, ensuring that you only pay for the time and expertise you need."
+                    ],
+                    [
+                        'question' => "Can I scale my team quickly if needed?",
+                        'answer' => "Absolutely! With our transparent pricing model and pre-vetted talent pool, scaling your team is quick and easy. Whether you need one developer or an entire team, we’ll help you scale up or down based on your project’s needs. You don’t have to worry about lengthy hiring processes or back-and-forth with recruiters."
+                    ],
+                    [
+                        'question' => "What types of developers can I hire through your service?",
+                        'answer' => "We offer developers across a wide range of technologies—whether it’s custom software development, web development, AI/ML, or mobile apps (React Native, Android, iOS). We’ve got experts who are proficient in all modern tech stacks, ensuring you get the right fit for your project every time."
+                    ],
+                    [
+                        'question' => "How do I ensure smooth collaboration with remote developers?",
+                        'answer' => "Our developers are experts in working remotely and are well-versed in collaborative tools like Slack, Trello, and Zoom. We help you set clear expectations and communication channels from the start to ensure smooth collaboration. You’ll also have a dedicated account manager to oversee progress and keep everything on track."
+                    ],
+                    [
+                        'question' => "Can I try a developer before committing long-term?",
+                        'answer' => "Yes! We offer trial periods so you can assess a developer's fit for your project before making a long-term commitment. This way, you can ensure they’re the right match for your team and your goals—without any risk."
+                    ],
+                    [
+                        'question' => "How do you handle developer management and payroll?",
+                        'answer' => "We take care of everything, so you don’t have to. From payroll to project management, we handle all the administrative tasks, letting you focus on what matters most—growing your business. You’ll only need to deal with us, while we manage the developers and ensure they’re meeting your expectations."
+                    ],
+                    [
+                        'question' => "What’s the benefit of hiring remote developers?",
+                        'answer' => "Hiring remote developers gives you access to a global talent pool, allowing you to hire the best talent at competitive rates. With our remote team, you can hire developers who align with your needs, whether it's a specific tech stack or specialized expertise, and they’ll be fully integrated into your operations."
+                    ],
+                    [
+                        'question' => "What makes your hiring process faster and more efficient?",
+                        'answer' => "Our AI-powered platform pre-screens candidates, ensuring that you only meet developers who are a perfect fit for your requirements. Instead of spending weeks sorting through resumes, you get instant access to qualified candidates ready to work on your project."
+                    ],
+                    [
+                        'question' => "Can I hire developers for a variety of roles (e.g., back-end, front-end, AI)?",
+                        'answer' => "Yes, you can! Whether you need full-stack developers, React Native experts, or AI specialists, we’ve got you covered. Our developers have expertise in all areas of tech, ensuring you can hire for any role, any time, depending on your project’s needs."
+                    ],
+                    [
+                        'question' => "How do you ensure the quality of work from remote developers?",
+                        'answer' => "We hold our developers to the highest standards. Through our comprehensive onboarding process and continuous feedback loops, we ensure the quality of work remains top-notch. Additionally, you’ll have regular check-ins with a project manager to track progress and ensure the developer is meeting your expectations."
+                    ],
+                    [
+                        'question' => "Why should I choose Optimal Virtual Employee over other staffing agencies?",
+                        'answer' => "At Optimal Virtual Employee, we provide full transparency in pricing, salary disclosures, and no hidden fees. Our developers are pre-vetted, certified, and ready to integrate seamlessly with your team. You get top-tier talent at competitive rates, with none of the hassle or uncertainty that typically comes with hiring offshore."
+                    ]
+                ];
     }
+
+    //  $faq['faq']['faqs'] ?? 
 
     public function save()
     {
